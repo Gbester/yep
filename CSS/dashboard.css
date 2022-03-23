@@ -1,0 +1,122 @@
+.subjectsHead {
+    position: absolute;
+    left: 100px;
+    top: 150;
+    width: 400px;
+    height: 100px;
+    color: white;
+    background: #19212e;
+    text-align: center;
+    border: 1px solid #364156;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+.my-Subjects {
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #364156;
+    background: #7a7a7a;
+    border-radius: 0px 0px 10px 10px;
+    position: absolute;
+    background-color: white;
+    width: 400px;
+    height: 650px;
+    left: 100px;
+    top: 250px;
+}
+
+.subjects-Box1 {
+justify-content: space-around;
+}
+
+.box1-Text {
+    text-align: center;
+    position: absolute;
+    top: 20px;
+    left: 35%;
+}
+
+.box1-Button {
+    position: absolute;
+    right: 20px;
+    top: 45px;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 8px 0px rgba(0,0,0,0.24);
+}
+
+.resourcesHead {
+    position: absolute;
+    left: 40%;
+    top: 150;
+    width: 400px;
+    height: 100px;
+    color: white;
+    background: #19212e;
+    text-align: center;
+    border: 1px solid #364156;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+.my-Resources {
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #364156;
+    background: #7a7a7a;
+    border-radius: 0px 0px 10px 10px;
+    position: absolute;
+    background-color: white;
+    width: 400px;
+    height: 650px;
+    left: 40%;
+    top: 250px;
+}
+
+.resources-Box1 {
+    justify-content: space-around;
+    }
+    
+    .box1-Text {
+        text-align: center;
+        position: absolute;
+        top: 20px;
+        left: 35%;
+    }
+    
+    .box1-Button {
+        position: absolute;
+        right: 20px;
+        top: 45px;
+        border-radius: 5px 5px 5px 5px;
+        box-shadow: 5px 5px 8px 0px rgba(0,0,0,0.24);
+    }
+
+.tutorsHead {
+    position: absolute;
+    right: 100px;
+    top: 150;
+    width: 400px;
+    height: 100px;
+    color: white;
+    background: #19212e;
+    text-align: center;
+    border: 1px solid #364156;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+
+.my-Tutors {
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #364156;
+    background: #7a7a7a;
+    border-radius: 0px 0px 10px 10px;
+    position: absolute;
+    background-color: white;
+    width: 400px;
+    height: 650px;
+    right: 100px;
+    top: 250px;
+}

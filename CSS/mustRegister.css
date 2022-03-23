@@ -1,0 +1,30 @@
+.lock {
+    top: 100;
+    left: 700;
+    position: relative;
+   
+
+
+}
+
+.lock .btn {
+    position: absolute;
+    bottom: 50;
+    left: 215;
+    border-radius: 45%;
+    background-color: #19212e;
+    color: white;
+    border-color: #4d4d4e;
+    
+    
+}
+.lock .btn:hover {
+    background-color: #273246;
+    color: white;
+  }
+.lock .text {
+    color: white;
+    position: absolute;
+    bottom: 100;
+    left: 35;
+}
