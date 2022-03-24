@@ -1,6 +1,3 @@
-<?php
-include 'topNav.php';
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +7,9 @@ include 'topNav.php';
   <link rel="stylesheet" type="text/css" href="CSS/index.css">
 </head>
 <body>
+  <?php
+include 'topNav.php';
+?>
 <?php if (!isset($_SESSION['loggedin'])) { ?>
   <div class="container">
     <img src="images/getstarted.jpg" width= "100%" height="75%" style="box-shadow: 8px 8px 10px #212d40" alt="student">
